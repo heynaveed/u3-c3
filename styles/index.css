@@ -1,0 +1,29 @@
+#navbar{
+    display: flex;
+    border: 1px solid black;
+    height: 50px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#navbar>h3{
+    margin-left: 40px;
+}
+#navbar>a{
+    margin-right: 40px;
+}
+#info{
+    
+    border: 1px solid black;
+    width: 20%;
+    height: 350px;
+    margin: auto;
+}
+
+#info>input{
+margin-left: 10%;
+margin-top: 20px;
+width: 80%;
+}
